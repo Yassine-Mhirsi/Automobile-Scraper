@@ -38,10 +38,10 @@ The script outputs a JSON file with the following structure:
 ```json
 [
   {
-    "name": "Car Name",
-    "normal_price": "Price in DT",
-    "ht_price": "Price in $ HT",
-    "link": "Link to car details"
+        "name": "BAKO B-VAN",
+        "normal_price": "à partir de 22 586 DT",
+        "ht_price": "8 900 $ HT",
+        "link": "https://www.automobile.tn/fr/neuf/bako/evan"
   },
   ...
 ]

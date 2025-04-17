@@ -1,313 +1,331 @@
 [
     {
         "name": "BAKO B-VAN",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 22 586 DT",
         "ht_price": "8 900 $ HT",
         "link": "https://www.automobile.tn/fr/neuf/bako/evan"
     },
     {
         "name": "VOLKSWAGEN VIRTUS",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 67 980 DT",
         "ht_price": "13 980 € HT",
         "link": "https://www.automobile.tn/fr/neuf/volkswagen/virtus"
     },
     {
         "name": "KIA STONIC",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 74 480 DT",
         "ht_price": "17 500 $ HT",
         "link": "https://www.automobile.tn/fr/neuf/kia/stonic"
     },
     {
         "name": "VOLKSWAGEN T-CROSS",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 75 980 DT",
         "ht_price": "15 980 € HT",
         "link": "https://www.automobile.tn/fr/neuf/volkswagen/t-cross"
     },
     {
         "name": "HONDA CITY",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 77 400 DT",
         "ht_price": "16 400 $ HT",
         "link": "https://www.automobile.tn/fr/neuf/honda/city"
     },
     {
         "name": "TOYOTA YARIS HYBRIDE",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 83 800 DT",
         "ht_price": "18 000 € HT",
         "link": "https://www.automobile.tn/fr/neuf/toyota/yaris-hybride/1.5-l-cvt-france"
     },
     {
+        "name": "HONDA JAZZ",
+        "normal_price": "à partir de 84 300 DT",
+        "ht_price": "19 900 $ HT",
+        "link": "https://www.automobile.tn/fr/neuf/honda/jazz/1.5-l-e-hev"
+    },
+    {
+        "name": "VOLKSWAGEN POLO",
+        "normal_price": "à partir de 85 480 DT",
+        "ht_price": "18 480 € HT",
+        "link": "https://www.automobile.tn/fr/neuf/volkswagen/polo"
+    },
+    {
+        "name": "SEAT ARONA",
+        "normal_price": "à partir de 87 980 DT",
+        "ht_price": "19 500 € HT",
+        "link": "https://www.automobile.tn/fr/neuf/seat/arona"
+    },
+    {
         "name": "BYD DOLPHIN",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 94 990 DT",
         "ht_price": "27 150 $ HT",
         "link": "https://www.automobile.tn/fr/neuf/byd/dolphin/fwd"
     },
     {
         "name": "DONGFENG RICH 6",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 98 900 DT",
         "ht_price": "24 800 € HT",
         "link": "https://www.automobile.tn/fr/neuf/dongfeng/rich-6"
     },
     {
         "name": "BYD KING",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 105 990 DT",
         "ht_price": "23 200 $ HT",
         "link": "https://www.automobile.tn/fr/neuf/byd/king/1.5-l-dm-i"
     },
     {
         "name": "HONDA HR-V",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 119 900 DT",
         "ht_price": "25 000 $ HT",
         "link": "https://www.automobile.tn/fr/neuf/honda/hr-v/1.5-l-cvt-ex-2023"
     },
     {
         "name": "VOLKSWAGEN GOLF 8",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 120 980 DT",
         "ht_price": "22 480 € HT",
         "link": "https://www.automobile.tn/fr/neuf/volkswagen/golf-8"
     },
     {
         "name": "TOYOTA HILUX SIMPLE CABINE",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 123 800 DT",
         "ht_price": "24 000 $ HT",
         "link": "https://www.automobile.tn/fr/neuf/toyota/hilux-simple-cabine/2.4-l-diesel-d-4d-4x4"
     },
     {
         "name": "BYD ATTO 3",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 123 990 DT",
         "ht_price": "35 650 $ HT",
         "link": "https://www.automobile.tn/fr/neuf/byd/atto-3/bev"
     },
     {
         "name": "TOYOTA COROLLA SEDAN HYBRIDE",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 124 800 DT",
         "ht_price": "25 000 € HT",
         "link": "https://www.automobile.tn/fr/neuf/toyota/corolla-sedan-hybride/1.8-l-hybride"
     },
     {
         "name": "VOLVO EX30",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 124 900 DT",
         "ht_price": "33 000 € HT",
         "link": "https://www.automobile.tn/fr/neuf/volvo/ex30"
     },
     {
         "name": "SEAT ATECA",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 124 980 DT",
         "ht_price": "23 000 € HT",
         "link": "https://www.automobile.tn/fr/neuf/seat/ateca"
     },
     {
         "name": "GEELY STARRAY",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 129 800 DT",
         "ht_price": "27 337 $ HT",
         "link": "https://www.automobile.tn/fr/neuf/geely/starray/1.5-l-turbo-gfplus"
     },
     {
         "name": "KIA SPORTAGE",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 140 980 DT",
         "ht_price": "24 900 € HT",
         "link": "https://www.automobile.tn/fr/neuf/kia/sportage"
     },
     {
         "name": "TOYOTA HIACE",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 142 000 DT",
         "ht_price": "24 500 € HT",
         "link": "https://www.automobile.tn/fr/neuf/toyota/hiace/2.5-l-diesel-16-places"
     },
     {
         "name": "HONDA ZR-V",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 147 000 DT",
         "ht_price": "33 000 $ HT",
         "link": "https://www.automobile.tn/fr/neuf/honda/zr-v/1.5-l-cvt"
     },
     {
         "name": "BMW SÉRIE 1",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 150 900 DT",
         "ht_price": "28 800 € HT",
         "link": "https://www.automobile.tn/fr/neuf/bmw/serie-1-5p"
     },
     {
         "name": "HONDA CIVIC",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 156 800 DT",
         "ht_price": "34 000 $ HT",
         "link": "https://www.automobile.tn/fr/neuf/honda/civic/1.5-l-cvt"
     },
     {
         "name": "VOLKSWAGEN TIGUAN",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 156 980 DT",
         "ht_price": "30 980 € HT",
         "link": "https://www.automobile.tn/fr/neuf/volkswagen/tiguan"
     },
     {
         "name": "BYD SONG PLUS",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 156 990 DT",
         "ht_price": "34 700 $ HT",
         "link": "https://www.automobile.tn/fr/neuf/byd/song-plus/1.5-l-dm-i"
     },
     {
         "name": "TOYOTA HILUX DOUBLE CABINE",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 159 800 DT",
         "ht_price": "29 000 € HT",
         "link": "https://www.automobile.tn/fr/neuf/toyota/hilux"
     },
     {
         "name": "TOYOTA RAV 4 HYBRIDE",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 164 800 DT",
         "ht_price": "33 500 € HT",
         "link": "https://www.automobile.tn/fr/neuf/toyota/rav-4-hybride/2.5-l-hybride"
     },
     {
         "name": "FORD RANGER",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 165 000 DT",
         "ht_price": "35 000 $ HT",
         "link": "https://www.automobile.tn/fr/neuf/ford/ranger"
     },
     {
         "name": "BMW SÉRIE 2 GRAN COUPÉ",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 169 900 DT",
         "ht_price": "32 000 € HT",
         "link": "https://www.automobile.tn/fr/neuf/bmw/serie-2-gran-coupe"
     },
     {
         "name": "MG RX8",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 174 950 DT",
         "ht_price": "37 500 $ HT",
         "link": "https://www.automobile.tn/fr/neuf/mg/rx8/2.0-t-lux"
     },
     {
         "name": "KIA SPORTAGE HYBRIDE",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 174 980 DT",
         "ht_price": "35 900 € HT",
         "link": "https://www.automobile.tn/fr/neuf/kia/sportage-hybride"
     },
     {
         "name": "HONDA CIVIC HYBRIDE",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 183 300 DT",
         "ht_price": "39 000 $ HT",
         "link": "https://www.automobile.tn/fr/neuf/honda/civic-hybride/2.0-l-e-hev"
     },
     {
         "name": "HONDA ACCORD",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 186 200 DT",
         "ht_price": "39 900 $ HT",
         "link": "https://www.automobile.tn/fr/neuf/honda/accord/1.5-l-turbo-24"
     },
     {
         "name": "HONDA CR-V",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 187 200 DT",
         "ht_price": "39 500 $ HT",
         "link": "https://www.automobile.tn/fr/neuf/honda/cr-v/1.5-t-cvt-2025"
     },
     {
         "name": "BMW X1",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 188 900 DT",
         "ht_price": "33 700 € HT",
         "link": "https://www.automobile.tn/fr/neuf/bmw/x1"
     },
     {
         "name": "VOLVO XC40",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 192 900 DT",
         "ht_price": "31 400 € HT",
         "link": "https://www.automobile.tn/fr/neuf/volvo/xc40"
     },
     {
         "name": "MITSUBISHI PAJERO",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 196 500 DT",
         "ht_price": "29 000 $ HT",
         "link": "https://www.automobile.tn/fr/neuf/mitsubishi/pajero/2.8-l"
     },
     {
         "name": "GEELY TUGELLA",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 199 800 DT",
         "ht_price": "34 255 $ HT",
         "link": "https://www.automobile.tn/fr/neuf/geely/tugella/2.0-l-turbo-4wd-gfplus"
     },
     {
         "name": "KIA EV6",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 199 980 DT",
         "ht_price": "59 900 $ HT",
         "link": "https://www.automobile.tn/fr/neuf/kia/ev6"
     },
     {
         "name": "HONDA CR-V HYBRIDE",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 200 900 DT",
         "ht_price": "42 900 $ HT",
         "link": "https://www.automobile.tn/fr/neuf/honda/cr-v-hybride/e-hev"
     },
     {
         "name": "VOLVO EC40",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 229 900 DT",
         "ht_price": "62 900 € HT",
         "link": "https://www.automobile.tn/fr/neuf/volvo/ec40-recharge/twin-ultra-black-edition"
     },
     {
         "name": "BYD TANG EV",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 229 990 DT",
         "ht_price": "66 200 $ HT",
         "link": "https://www.automobile.tn/fr/neuf/byd/tang-ev/bev"
     },
     {
         "name": "GEELY MONJARO",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 235 000 DT",
         "ht_price": "36 974 $ HT",
         "link": "https://www.automobile.tn/fr/neuf/geely/monjaro/2.0-l-turbo-4wd-gfplus"
     },
     {
         "name": "MITSUBISHI PAJERO SPORT",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 243 567 DT",
         "ht_price": "37 400 $ HT",
         "link": "https://www.automobile.tn/fr/neuf/mitsubishi/pajero-sport"
     },
     {
         "name": "TOYOTA LAND CRUISER 76",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 244 000 DT",
         "ht_price": "32 000 € HT",
         "link": "https://www.automobile.tn/fr/neuf/toyota/land-cruiser-76/4.2-l"
     },
     {
         "name": "FORD EVEREST",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 257 000 DT",
         "ht_price": "42 000 $ HT",
         "link": "https://www.automobile.tn/fr/neuf/ford/everest"
     },
     {
         "name": "HONDA CIVIC TYPE R",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 274 400 DT",
         "ht_price": "55 000 $ HT",
         "link": "https://www.automobile.tn/fr/neuf/honda/civic-type-r/2.0-l-turbo"
     },
     {
         "name": "BMW SÉRIE 4 GRAN COUPÉ",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 281 500 DT",
         "ht_price": "43 600 € HT",
         "link": "https://www.automobile.tn/fr/neuf/bmw/serie-4-gran-coupe"
     },
     {
         "name": "VOLVO XC60",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 299 900 DT",
         "ht_price": "46 900 € HT",
         "link": "https://www.automobile.tn/fr/neuf/volvo/xc60"
     },
     {
         "name": "FORD RANGER RAPTOR",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 325 000 DT",
         "ht_price": "65 800 $ HT",
         "link": "https://www.automobile.tn/fr/neuf/ford/ranger-raptor/2.0-l-tdci-210-ch-4x4-bva"
     },
     {
         "name": "TOYOTA PRADO",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 342 000 DT",
         "ht_price": "49 000 € HT",
         "link": "https://www.automobile.tn/fr/neuf/toyota/prado"
     },
     {
         "name": "VOLVO XC90",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 459 900 DT",
         "ht_price": "82 900 € HT",
         "link": "https://www.automobile.tn/fr/neuf/volvo/xc90/2.0-l-recharge-facelift-2025-ultimate-bright"
     },
     {
         "name": "TOYOTA LAND CRUISER 300",
-        "normal_price": "N/A",
+        "normal_price": "à partir de 530 000 DT",
         "ht_price": "80 000 € HT",
         "link": "https://www.automobile.tn/fr/neuf/toyota/land-cruiser-300"
     }
