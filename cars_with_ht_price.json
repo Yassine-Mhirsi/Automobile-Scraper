@@ -168,12 +168,6 @@
         "link": "https://www.automobile.tn/fr/neuf/honda/civic/1.5-l-cvt"
     },
     {
-        "name": "VOLKSWAGEN TIGUAN",
-        "normal_price": "à partir de 156 980 DT",
-        "ht_price": "30 980 € HT",
-        "link": "https://www.automobile.tn/fr/neuf/volkswagen/tiguan"
-    },
-    {
         "name": "BYD SONG PLUS",
         "normal_price": "à partir de 156 990 DT",
         "ht_price": "34 700 $ HT",
@@ -186,16 +180,16 @@
         "link": "https://www.automobile.tn/fr/neuf/toyota/hilux"
     },
     {
+        "name": "VOLKSWAGEN TIGUAN",
+        "normal_price": "à partir de 159 980 DT",
+        "ht_price": "30 980 € HT",
+        "link": "https://www.automobile.tn/fr/neuf/volkswagen/tiguan"
+    },
+    {
         "name": "TOYOTA RAV 4 HYBRIDE",
         "normal_price": "à partir de 164 800 DT",
         "ht_price": "33 500 € HT",
         "link": "https://www.automobile.tn/fr/neuf/toyota/rav-4-hybride/2.5-l-hybride"
-    },
-    {
-        "name": "BMW SÉRIE 2 GRAN COUPÉ",
-        "normal_price": "à partir de 169 900 DT",
-        "ht_price": "32 000 € HT",
-        "link": "https://www.automobile.tn/fr/neuf/bmw/serie-2-gran-coupe"
     },
     {
         "name": "FORD RANGER",
@@ -300,12 +294,6 @@
         "link": "https://www.automobile.tn/fr/neuf/geely/monjaro/2.0-l-turbo-4wd-gfplus"
     },
     {
-        "name": "VOLVO EC40",
-        "normal_price": "à partir de 229 900 DT",
-        "ht_price": "62 900 € HT",
-        "link": "https://www.automobile.tn/fr/neuf/volvo/ec40-recharge/twin-ultra-black-edition"
-    },
-    {
         "name": "BYD TANG EV",
         "normal_price": "à partir de 229 990 DT",
         "ht_price": "66 200 $ HT",
@@ -370,6 +358,12 @@
         "normal_price": "à partir de 342 000 DT",
         "ht_price": "49 000 € HT",
         "link": "https://www.automobile.tn/fr/neuf/toyota/prado"
+    },
+    {
+        "name": "BMW SÉRIE 4 COUPÉ",
+        "normal_price": "à partir de 366 900 DT",
+        "ht_price": "57 900 € HT",
+        "link": "https://www.automobile.tn/fr/neuf/bmw/serie-4-coupe/420i-pack-m-pro"
     },
     {
         "name": "BMW X3",

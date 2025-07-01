@@ -29,7 +29,7 @@ def scrape_page(page, url, max_retries=3):
 
 def scrape_cars():
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
+        browser = p.chromium.launch(headless=True)
         page = browser.new_page()
         
         cars_with_ht = []
